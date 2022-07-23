@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2f89550a093daa49a027bb9f1fb0316, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: "what is your next QUESTION GONNA BE ? \t"
+  question: what is the correct syntx for Intger
   answers:
-  - 1
-  - 2
-  - 3
-  - 4
-  correctAnswerIndex: 3
+  - INT  i = 3;
+  - int  i = "3";
+  - int  i = 3;
+  - 'int  i = 3:'
+  correctAnswerIndex: 1
